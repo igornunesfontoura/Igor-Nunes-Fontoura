@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Igor-Nunes-Fontoura">
+  <a href="https://github.com/igornunesfontoura">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Igor-Nunes-Fontoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Nunes-Fontoura&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
